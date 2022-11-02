@@ -4,14 +4,14 @@
     padding: 0;
     box-sizing: border-box;
    }
-   body {   
-    font-family: monospace;
-    background-color: rgb(181, 173, 157);
-    background-image:url(bg.png);
-    height: 100%;
+   body {
+    height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-image:url(bg.png);
+    height: 100%;
+    font-family: monospace;
     
    }
    a {
@@ -21,6 +21,10 @@
     list-style: none;
    }
 
+   img {
+
+    max-width: 100%;
+   }
 
 /* navbar start */
   .navbar {
