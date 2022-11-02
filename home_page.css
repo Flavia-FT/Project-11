@@ -1,5 +1,5 @@
 /* UTILITIES */
- *{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -9,24 +9,21 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-image:url(bg.png);
+    height: 100%;
     font-family: monospace;
+    
    }
-  
    a {
     text-decoration: none;
    }
-   a{
-    color: rgb(255, 237, 220);
-    }
-a:link{
-  text-decoration:none;
-}
-  a:hover{
-    color:blue;
-  }
-   
    li {
     list-style: none;
+   }
+
+   img {
+
+    max-width: 100%;
    }
   /* navbar start */
   .navbar {
