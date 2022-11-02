@@ -1,22 +1,30 @@
 /* UTILITIES */
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
- }
- body {
-  font-family: monospace; 
-  height: 100vh;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
- }
- a {
-  text-decoration: none;
- }
- li {
-  list-style: none;
- }
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+   body {
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url(bg.png);
+    height: 100%;
+    font-family: monospace;
+    
+   }
+   a {
+    text-decoration: none;
+   }
+   li {
+    list-style: none;
+   }
+
+   img {
+
+    max-width: 100%;
+   }
 /* navbar start */
   .navbar {
     display: flex;
