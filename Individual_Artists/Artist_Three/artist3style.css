@@ -196,31 +196,31 @@
     margin-bottom: -10%;
 }
 
-.col1_row1 {
+#col1_row1 {
 
     margin-top: 10%;
 
 }
 
-.col2_row1 {
+#col2_row1 {
 
     margin-top: -38%;
 
 }
 
-.col1_row2 {
+#col1_row2 {
 
     margin-top: 15%;
 
 }
 
-.col2_row2 {
+#col2_row2 {
 
     margin-top: -15%;
 
 }
 
-.col1_row3 {
+#col1_row3 {
 
     margin: -80% -150% 0px 0%;
     width: 220%;
