@@ -9,9 +9,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image:url(bg.png);
-    height: 100%;
-    font-family: monospace;
+   font-family: monospace;
     
    }
    a {
@@ -19,11 +17,6 @@
    }
    li {
     list-style: none;
-   }
-
-   img {
-
-    max-width: 100%;
    }
 
 /* navbar start */
