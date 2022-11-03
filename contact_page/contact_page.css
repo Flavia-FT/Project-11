@@ -78,7 +78,7 @@
     margin-top: 10px;
     position: absolute; /*WITH RESPECT TO PARENT*/
     white-space: nowrap;
-    overflow: hidden;
+    overflow:hidden;
     text-overflow:clip;
     width: 100%;
     display: none;/*change*/
