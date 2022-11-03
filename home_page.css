@@ -89,6 +89,7 @@
     background-color: rgb(181, 173, 157);
     margin-top: 10px;
     position: absolute; /*WITH RESPECT TO PARENT*/
+    z-index:1; /*trying to fix position*/
     white-space: nowrap;
     overflow:hidden;
     text-overflow:clip;
