@@ -195,19 +195,6 @@ div.collection{
   color:rgb(255, 237, 220)
 }
 
-.carousel a:link{
-  color:rgb(181, 173, 157);
-  text-decoration: none;
-  cursor:pointer
-}
-
-.cursor a:hover{
-  color:blue;
-  text-decoration: none;
-  cursor:pointer;
-}
-
-
 /*carousel end*/
 
 /*Collection start*/
