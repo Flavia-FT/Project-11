@@ -140,7 +140,7 @@
     box-sizing: border-box;
   }
   
-  body *:not(.nav-links) /*change 311*/{
+  body {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.4;
