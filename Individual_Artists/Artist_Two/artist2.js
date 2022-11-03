@@ -3,7 +3,7 @@ let c1r1 = document.getElementById("col1_row1");
 
 c1r1.addEventListener("click", function(){
   if(c1r1.src == "https://pudders.github.io/Course-Project-11-new/Individual_Artists/Artist_Two/PB1.jpg")
-  {c1r1.src = "https://pudders.github.io/Course-Project-11-new/Individual_Artists/Artist_Two/fk1Tryagain.jpg"}
+  {c1r1.src = "https://pudders.github.io/Course-Project-11-new/Individual_Artists/Artist_One/fk1Tryagain.jpg"}
   else{
     c1r1.src = "https://pudders.github.io/Course-Project-11-new/Individual_Artists/Artist_Two/PB1.jpg"
   }
