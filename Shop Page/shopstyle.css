@@ -298,7 +298,7 @@
       transform: translateX(140px) rotate(-18deg);
       }
       }
-      /*html {
+      html {
       box-sizing: border-box;
       -webkit-font-smoothing: antialiased;
       }
@@ -307,10 +307,9 @@
       }
       *:before, *:after {
       box-sizing: inherit;
-      } */
+      } 
       body {
       min-height: 100vh;
-      font-family: 'Inter UI', 'Inter', Arial;
       justify-content: center;
       align-items: center;
       background: #eceffc;
