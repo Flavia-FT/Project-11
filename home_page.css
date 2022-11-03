@@ -26,8 +26,8 @@
     height: 70px;
     justify-content: space-evenly;
     padding: 10px;
-    background-color: rgb(0, 0, 0);
-    color: rgb(0, 0, 0);
+    background-color: rgb(181, 173, 157);
+    color: rgb(84, 95, 81);
    }
    .menu {
    align-items:center;
@@ -56,7 +56,7 @@
    
    }
    .menu li:hover {
-    background-color: rgb(43, 43, 43); 
+    background-color: rgb(84, 95, 81); 
     display: block;
     transition: 0.3s ease;
     
@@ -110,7 +110,7 @@
    }
 
    .dropdown li:hover {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(84, 95, 81);
     border-radius: 0px;
    }
 
