@@ -22,11 +22,14 @@
    a:link{
     color:rgb(181, 173, 157);
     text-decoration: none;
+    cursor:pointer
    }
 
    a:hover{
     color:blue;
     text-decoration: none;
+    cursor:pointer;
+    
    }
 
   /* navbar start */
@@ -191,6 +194,19 @@ div.collection{
 .carousel p{
   color:white;
 }
+
+.carousel a:link{
+  color:rgb(181, 173, 157);
+  text-decoration: none;
+  cursor:pointer
+}
+
+.cursor a:hover{
+  color:blue;
+  text-decoration: none;
+  cursor:pointer;
+}
+
 
 /*carousel end*/
 
