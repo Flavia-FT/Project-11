@@ -19,6 +19,16 @@
     list-style: none;
    }
 
+   a:link{
+    color:rgb(181, 173, 157);
+    text-decoration: none;
+   }
+
+   a:hover{
+    color:blue;
+    text-decoration: none;
+   }
+
   /* navbar start */
   .navbar {
     display: flex;
