@@ -148,7 +148,7 @@
     margin: 0;
   }
   
-  body *:not(.nav-links)::before {
+  body ::before *:not(.nav-links){
     content: '';
     position: fixed;
     top: 0;
