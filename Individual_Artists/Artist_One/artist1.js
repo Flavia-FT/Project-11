@@ -25,7 +25,7 @@ let c1r2 = document.getElementById("col1_row2");
 
 c1r2.addEventListener("click", function(){
   if(c1r2.src == "https://pudders.github.io/Course-Project-11-new/Individual_Artists/Artist_One/FK4.webp")
-  {c1r2.src = "https://pudders.github.io/Course-Project-11-new/Individual_Artists/Artist_One/That's%20correct.png"}
+  {c1r2.src = "https://pudders.github.io/Course-Project-11-new/Individual_Artists/Artist_One/fkThat's%20correct.png"}
   else{
     c1r2.src = "https://pudders.github.io/Course-Project-11-new/Individual_Artists/Artist_One/FK4.webp"
   }
