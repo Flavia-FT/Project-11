@@ -217,14 +217,18 @@
 
 #col2_row2 {
 
-    margin-top: 20%;
+    margin-top: 25%;
 
 }
 
 #col1_row3 {
 
-    margin: -80% -150% 0px 0%;
     width: 220%;
+    margin-top: -45%;
+    background-image: linear-gradient(rgb(245, 226, 167, 0.4), rgb(167, 126, 80, 0.4),rgb(141, 106, 68, 0.4));
+    border-color:rgb(245, 226, 167, 0.4);
+    border-style:groove;
+    font-size: x-large;
 
 }
 /* minigallery end */
